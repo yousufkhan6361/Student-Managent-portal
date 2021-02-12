@@ -1,0 +1,18 @@
+Project Student Managment System
+---------
+
+1. Integrated Admin Theme
+2. Admin Login Module
+3. Student Registration Module
+4. Student details(view)
+5. Pagination (on student details page)
+6. Add Branch
+7. view Branch Listing
+8. Edit Branch
+9. Add Course
+10. View Course
+11. Upload image at student registration page
+12. Pagination with ajax 
+13. searching sorting dynamic columns on studentdetails
+14. dynamic columns on studentdetails using ajax
+15. Profile listing and fee adding
