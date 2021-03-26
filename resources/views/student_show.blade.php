@@ -35,8 +35,8 @@ color: #999;
                         <h4>
                             {{$student[0]['sname']}}</h4>
                         <cite title="Father Name">Father Name : {{$student[0]['fname']}}<br> </cite><br>
-                        <cite title="Father Name">Class : {{$student[0]['class']}}<br></cite><br>
-                        <cite title="Father Name">Email : {{$student[0]['email']}}<br></cite><br>
+                        <cite title="Class">Class : {{$student[0]['class']}}<br></cite><br>
+                        <cite title="Email">Email : {{$student[0]['email']}}<br></cite><br>
                        
                     </div>
                 </div>
