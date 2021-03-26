@@ -20,6 +20,8 @@
     <link href="{{ asset('public/theme/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css') }}" rel="stylesheet">
     <!-- Custom Theme Style -->
     <link href="{{ asset('public/theme/build/css/custom.min.css') }}" rel="stylesheet">
+
+    
     <style type="text/css">
       .fa-pencil-square-o{
         color: #268009;
